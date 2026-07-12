@@ -1,0 +1,11 @@
+## Interface: 120007
+## Title: Quest Completed Check
+## IconTexture: Interface/Addons/QuestCompletedCheck/art/QuestCompletedCheck_small_icon
+## Notes: Displays a popup to check quest completion status by quest ID.
+## Notes: |cff58C6FADisplays a popup to check quest completion status by quest ID.|r|n|cffbbbbbbBy zecmo|r|n|n|cffFFC700Slash command: /qcc|r
+## Author: zecmo
+## Version: 1.0.2
+## Category: Quests
+## SavedVariables: QuestCompletedCheckDB
+
+QuestCompletedCheck.lua
